@@ -26,7 +26,7 @@ function App() {
         <Link to="/products">Products</Link>
         <Link to="/ProductAPI">Products API</Link>
 
-        <Link to="/admin">admin</Link>
+        <Link to="/admin">admins</Link>
         <div>{user.user.name}</div>
         <Popover />
         <DialogDemo />
